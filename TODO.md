@@ -1,0 +1,6 @@
+- [x] Criar index.html: Página inicial com navegação, seção hero, produtos em destaque, rodapé.
+- [x] Criar products.html: Página de listagem de produtos com grid responsivo.
+- [x] Criar about.html: Página sobre a loja.
+- [x] Criar contact.html: Página de contato com formulário.
+- [x] Criar style.css: Estilos personalizados, responsivos, com variáveis CSS.
+- [x] Testar abertura no navegador para verificar responsividade e design.
